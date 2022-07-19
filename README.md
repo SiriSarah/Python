@@ -7,9 +7,9 @@ Currently, it has three folders (more to come).
 
 [1. Hello World](https://github.com/SiriSarah/Python/blob/main/1.%20Introduction/1.%20Hello_World.py) - A basic one line statement to print, Hello World!
 
-[2. Comments](https://github.com/SiriSarah/Python/blob/main/1.%20Introduction/2.%20Comments.py) - Introduction to Commenting in Python file.
+[2. Comments](https://github.com/SiriSarah/Python/blob/main/1.%20Introduction/2.%20Comments.py) - Introduction to Commenting in Python file
 
-[3. Variable Assignments](https://github.com/SiriSarah/Python/blob/main/1.%20Introduction/3.%20Variable_Assignment.py) - How to create a variable, and assign a value.
+[3. Variable Assignments](https://github.com/SiriSarah/Python/blob/main/1.%20Introduction/3.%20Variable_Assignment.py) - How to create a variable, and assign a value
 
 [4. Inputs from end user](https://github.com/SiriSarah/Python/blob/main/1.%20Introduction/4.%20Input_from_User.py) - How to get an input from the user?
 
@@ -27,5 +27,24 @@ Currently, it has three folders (more to come).
 
 ## Basics
 
+[11. While Loop](https://github.com/SiriSarah/Python/blob/main/2.%20Basics/11.%20While_Loop_part_1.py) - Decision Making with the help of While Loop
+
+[12. For Loop](https://github.com/SiriSarah/Python/blob/main/2.%20Basics/12.%20For_Loop.py) - Decision Making with the help of For Loop
+
+[13. Functions](https://github.com/SiriSarah/Python/blob/main/2.%20Basics/13.%20Functions.py) - Functions to simplify repeated common tasks
+
+[14. While Loop - II](https://github.com/SiriSarah/Python/blob/main/2.%20Basics/14.%20While_Loop_part_2.py) - Power of Infinite loops
+
+[15. Casting](https://github.com/SiriSarah/Python/blob/main/2.%20Basics/15.%20Casting.py) - Type Casting, converting the value to different object types
+
+[16. String Slicing](https://github.com/SiriSarah/Python/blob/main/2.%20Basics/16.%20String_Slicing.py) - Extracting the required information from a string
+
+[17. List Operations](https://github.com/SiriSarah/Python/blob/main/2.%20Basics/17.%20List.py) - Operating on Lists
+
+[18. Sets](https://github.com/SiriSarah/Python/blob/main/2.%20Basics/18.%20Sets.py) - Basic set operations
+
+[19. Dictionary](https://github.com/SiriSarah/Python/blob/main/2.%20Basics/19.%20Dictionary.py) - Python Dictionary
+
+[20. Tuples](https://github.com/SiriSarah/Python/blob/main/2.%20Basics/20.%20Tuples.py) - Basic Tuples operation
 
 ## Intermediate
