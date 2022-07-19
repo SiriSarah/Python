@@ -48,3 +48,23 @@ Currently, it has three folders (more to come).
 [20. Tuples](https://github.com/SiriSarah/Python/blob/main/2.%20Basics/20.%20Tuples.py) - Basic Tuples operation
 
 ## Intermediate
+
+[21. Modules](https://github.com/SiriSarah/Python/blob/main/3.%20Intermediate/21.%20Modules.py) - Python In built libraries
+
+[22. Error Handling](https://github.com/SiriSarah/Python/blob/main/3.%20Intermediate/22.%20Error_Handling.py) - Different types of error, and how to handle it runtime
+
+[23. File Operations](https://github.com/SiriSarah/Python/blob/main/3.%20Intermediate/23.%20File_operations.py) - Finding the file name, folder namer, working directory, absolute path.
+
+[24. Read write](https://github.com/SiriSarah/Python/blob/main/3.%20Intermediate/24.%20Read_Write.py) - How to read and write a file?
+
+[25. Delete Files](https://github.com/SiriSarah/Python/blob/main/3.%20Intermediate/25.%20Delete_files.py) - Steps to delete a file or folder
+
+[26. Lambdas](https://github.com/SiriSarah/Python/blob/main/3.%20Intermediate/26.%20Lambdas.py) - Replacement for functions
+
+[27. Classes](https://github.com/SiriSarah/Python/blob/main/3.%20Intermediate/27.%20Classes.py) - Creating classes
+
+[28. Creating Own Modules](https://github.com/SiriSarah/Python/blob/main/3.%20Intermediate/28.%20MyOwnModule.py) - Creating a shareable library
+
+[29. Iterators](https://github.com/SiriSarah/Python/blob/main/3.%20Intermediate/29.%20Iterators.py) - Iterating and finding out the next element
+
+[30. Scopes](https://github.com/SiriSarah/Python/blob/main/3.%20Intermediate/30.%20Scopes.py) - Local, and Global scope of variables
