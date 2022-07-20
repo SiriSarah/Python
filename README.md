@@ -1,7 +1,7 @@
 # Python
 This repository contains the python-3 program examples for beginners, intermediate, and advanced programmers.
 
-Currently, it has three folders (more to come).
+Currently, it has four folders (more to come).
 
 ## Introduction
 
@@ -68,3 +68,25 @@ Currently, it has three folders (more to come).
 [29. Iterators](https://github.com/SiriSarah/Python/blob/main/3.%20Intermediate/29.%20Iterators.py) - Iterating and finding out the next element
 
 [30. Scopes](https://github.com/SiriSarah/Python/blob/main/3.%20Intermediate/30.%20Scopes.py) - Local, and Global scope of variables
+
+## Intermediate II
+
+[31. Class with Functions](https://github.com/SiriSarah/Python/blob/main/4.%20Intermediate%20II/31.%20Class_with_functions.py) - Creation of class with multiple functions
+
+[32. Inheritance with Function overloading](https://github.com/SiriSarah/Python/blob/main/4.%20Intermediate%20II/32.%20Inheritance.py) - Inherit from different base class
+
+[33. Operator overloading](https://github.com/SiriSarah/Python/blob/main/4.%20Intermediate%20II/33.%20Operator_overloading.py) - Overload the operators
+
+[34. Read and write CSV file](https://github.com/SiriSarah/Python/blob/main/4.%20Intermediate%20II/34.%20Reading_CSV.py) - Reading and writing to CSV files
+
+[35. Installing pip and Libraries](https://github.com/SiriSarah/Python/blob/main/4.%20Intermediate%20II/35.%20Installing_Libraries.py) - Instructions to download and install pip and pip packages
+
+[36. Automation](https://github.com/SiriSarah/Python/blob/main/4.%20Intermediate%20II/36.%20Automation.py) - Automating boring stuffs 
+
+[37. Plotting Graphs](https://github.com/SiriSarah/Python/blob/main/4.%20Intermediate%20II/37.%20Plots.py) - Plotting the graphs
+
+[38. Web Development](https://github.com/SiriSarah/Python/blob/main/4.%20Intermediate%20II/38.%20Flask.py) - Web development frameworks
+
+[39. Requests](https://github.com/SiriSarah/Python/blob/main/4.%20Intermediate%20II/39.%20Requests.py) - Getting Bitcoin price real time. 
+
+[40. Database](https://github.com/SiriSarah/Python/blob/main/4.%20Intermediate%20II/40.%20Database.py) - Operating with database 
