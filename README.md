@@ -92,3 +92,23 @@ Currently, it has five folders (more to come).
 [40. Database](https://github.com/SiriSarah/Python/blob/main/4.%20Intermediate%20II/40.%20Database.py) - Operating with database 
 
 ## Intermediate III
+
+[41. Linked List](https://github.com/SiriSarah/Python/blob/main/5.%20Intermediate%20III/41.%20Linked_List.py) - Linked List with Python
+
+[42. Doubly Linked List](https://github.com/SiriSarah/Python/blob/main/5.%20Intermediate%20III/42.%20Doubly_Linked_List.py) - Doubly Linked List with insert, delete, and display operations
+
+[43. Time It](https://github.com/SiriSarah/Python/blob/main/5.%20Intermediate%20III/43.%20Time_It.py) - Measuring the time required to run the program
+
+[44. List Operations](https://github.com/SiriSarah/Python/blob/main/5.%20Intermediate%20III/44.%20List_Comprehension.py) - List Comprehension, packing and unpacking
+
+[45. Binary Tree](https://github.com/SiriSarah/Python/blob/main/5.%20Intermediate%20III/45.%20Binary_Tree.py) - Binary Tree
+
+[46. Recursion](https://github.com/SiriSarah/Python/blob/main/5.%20Intermediate%20III/46.%20Recursions.py) - Recursions
+
+[47. Unit Testing](https://github.com/SiriSarah/Python/blob/main/5.%20Intermediate%20III/47.%20Testing.py) - Creating class, calling the functions, and running unit tests
+
+[48. Sorting](https://github.com/SiriSarah/Python/blob/main/5.%20Intermediate%20III/48.%20Sorting.py) - List sorting, reversing, finding minimum, and maximum
+
+[49. Data Class](https://github.com/SiriSarah/Python/blob/main/5.%20Intermediate%20III/49.%20Data_Classes.py) - Data class to store the data in python class
+
+[50. Python Package](https://github.com/SiriSarah/Python/tree/main/5.%20Intermediate%20III/50.%20Python_Package) - A demo python package
