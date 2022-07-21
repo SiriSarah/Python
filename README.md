@@ -1,7 +1,7 @@
 # Python
 This repository contains the python-3 program examples for beginners, intermediate, and advanced programmers.
 
-Currently, it has four folders (more to come).
+Currently, it has five folders (more to come).
 
 ## Introduction
 
@@ -90,3 +90,5 @@ Currently, it has four folders (more to come).
 [39. Requests](https://github.com/SiriSarah/Python/blob/main/4.%20Intermediate%20II/39.%20Requests.py) - Getting Bitcoin price real time. 
 
 [40. Database](https://github.com/SiriSarah/Python/blob/main/4.%20Intermediate%20II/40.%20Database.py) - Operating with database 
+
+## Intermediate III
