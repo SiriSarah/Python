@@ -21,7 +21,7 @@ Currently, it has five folders (more to come).
 
 [8. String Concatenation](https://github.com/SiriSarah/Python/blob/main/1.%20Introduction/8.%20String_Concatenation.py) - Addition of multiple strings
 
-[9. Lists Introduction](https://github.com/SiriSarah/Python/blob/main/1.%20Introduction/9.%20Lists_Introduction.py) - Powerful datastructure in python for easy access
+[9. Lists Introduction](https://github.com/SiriSarah/Python/blob/main/1.%20Introduction/9.%20Lists_Introduction.py) - Powerful data structure in python for easy access
 
 [10. Decisions If Loop](https://github.com/SiriSarah/Python/blob/main/1.%20Introduction/10.%20Decisions_If_Loop.py) - Making decisions based on conditions.
 
